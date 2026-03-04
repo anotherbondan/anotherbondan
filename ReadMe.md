@@ -11,7 +11,6 @@
 <br/>
 
 ### 👨‍💻 About Me
-### 👨‍💻 About Me
 - 🏫 Information Systems student at **Universitas Indonesia**
 - 🌱 Delving into *Software Engineering* and highly enthusiastic about **DevOps**
 - ⚡ Fun fact: I'm allergic to shrimp 🦐
