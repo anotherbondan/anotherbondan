@@ -33,5 +33,5 @@
 ### 📊 GitHub Stats
 <br/>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anotherbondan&theme=nightowl&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anotherbondan&theme=midnight-purple&hide_border=false" />
 </div>
